@@ -1,21 +1,5 @@
 # Netflix-Clone
-This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
-
-## 📸 Screenshots
-![image](!https://1drv.ms/i/c/9a17565a9a914543/IQBI0fK__igTRIYghtMstQx0Abd5uvoPu_8vcc5jenZIhpM?e=Yq8F5p)
-![image](https://1drv.ms/i/c/9a17565a9a914543/IQD_Hej1fgFcT5z7cQerD72jAfrIIxYIg3Xl45oVJWOIgkc?e=YaX7pP)
-![image](https://1drv.ms/i/c/9a17565a9a914543/IQC9YESTCDloRrvZdtCn902EAVRHBsUujp9mK2FJ5P7qeys?e=VHlIkF)
-![image](https://1drv.ms/i/c/9a17565a9a914543/IQCRxFQaCv1xSorLhw97gAFiAek9k9yYBPp6uvcZ8Cciwg8?e=wREylL)
-![image](https://1drv.ms/i/c/9a17565a9a914543/IQDhIEnT5zlfQLDuM-l1dQ2QAf2tA76O5b2gK5WEH3Lu0Qg?e=6Ya82P)
-![image](https://1drv.ms/i/c/9a17565a9a914543/IQAoMktWfyf9QrbwDg7hVW-XAYIjLLJObM3AMlutYLDuoPA?e=e8YsaW)
-![image](https://1drv.ms/i/c/9a17565a9a914543/IQASsBCTYdhQS6QBqASrLKTwAcXGB0JvQZu73DOx4UxCx2Q?e=NDnk1M)
-
-
-## Watch the Live [Demo](https://susmita-dey.github.io/Netflix-Clone/)
-
-
-## [Watch the video tutorial here](https://youtu.be/wpH0VR0hYTU)
-
+This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.
 
 # 💥 How to Contribute
 
