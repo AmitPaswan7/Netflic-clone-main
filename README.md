@@ -3,28 +3,28 @@ This is the core code from scratch to clone the landing page of Netflix using **
 
 # 💥 How to Contribute
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Susmita-Dey/Netflix-Clone/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Amit-kumar-7/Netflix-Clone/pulls)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Take a look at the existing [Issues](https://github.com/Susmita-Dey/Netflix-Clone-With-HTML-CSS-JS/issues) or [create a new issue](https://github.com/Susmita-Dey/Netflix-Clone/issues/new/choose)!
-- [Fork the Repo](https://github.com/Susmita-Dey/Netflix-Clone/fork), create a branch for any issue that you are working on and commit your work.
-- Create a **[Pull Request](https://github.com/Susmita-Dey/Netflix-Clone/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
+- Take a look at the existing [Issues](https://github.com/Amit-kumar-7/Netflix-Clone-With-HTML-CSS-JS/issues) or [create a new issue](https://github.com/Amit-kumar-7/Netflix-Clone/issues/new/choose)!
+- [Fork the Repo](https://github.com/Amit-kumar-7/Netflix-Clone/fork), create a branch for any issue that you are working on and commit your work.
+- Create a **[Pull Request](https://github.com/Amit-kumar-7/Netflix-Clone/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes that are included in your commits.
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
-**1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Susmita-Dey/Netflix-Clone) repository. Click on the <a href="https://github.com/Susmita-Dey/Netflix-Clone/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+**1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Amit-kumar-7/Netflix-Clone) repository. Click on the <a href="https://github.com/Amit-kumar-7/Netflix-Clone/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
 **2.** Clone your new fork of the repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/Netflix-Clone
+git clone https://github.com/<your-github-Amit-kumar-7>/Netflix-Clone
 ```
 
 **3.** Set upstream command:
 
 ```bash
-git remote add upstream https://github.com/Susmita-Dey/Netflix-Clone.git
+git remote add upstream https://github.com/Amit-kumar-7/Netflix-Clone.git
 ```
 
 **4.** Navigate to the new project directory:
@@ -84,6 +84,6 @@ git push origin YourBranchName
 
 <p align="center">
 
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Amit-kumar-7/Netflix-Clone)
 
 </p>
