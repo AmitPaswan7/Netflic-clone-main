@@ -13,7 +13,7 @@ This is the core code from scratch to clone the landing page of Netflix using **
 
 ## ⭐ HOW TO MAKE A PULL REQUEST:
 
-**1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Amit-kumar-7/Netflix-Clone) repository. Click on the <a href="https://github.com/Amit-kumar-7/Netflix-Clone/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+**1.** Start by making a fork the [**Netflix-Clone**](file:///D:/DigiCoders/New%20folder/Netflic-clone-main-main/index.html) repository. Click on the <a href="https://github.com/Amit-kumar-7/Netflix-Clone/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
 
 **2.** Clone your new fork of the repository:
 
